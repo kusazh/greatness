@@ -134,7 +134,7 @@ Andor Genesis, Baozousangshi, Han Xiaofei, Yang Zijiang, GAMECORES
 
 ## Poem
 
-### Embrace 擁抱 [↗](https://www.gcores.com/users/13146/content?tab=radios)
+### Embrace 擁抱 [↗](http://faculty.ndhu.edu.tw/~e-poem/poemroad/weeklypoem/2006/03/01/夏宇%E3%80%88擁抱〉■評介者%E3%80%80鴻鴻/)
 
 Hsia Yu, from _Friction. indescribable_ 摩擦．無以名狀  
 1995
