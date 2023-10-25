@@ -33,6 +33,15 @@ Edward Yang
 
 <br>
 
+## Food
+
+### Sausage McMuffin with Egg [↗](https://www.mcdonalds.com/us/en-us/product/sausage-mcmuffin-with-egg.html)
+
+Herb Peterson, McDonald's  
+1972
+
+<br>
+
 ## Game
 
 ### FEZ [↗](https://en.wikipedia.org/wiki/Fez_(video_game))
@@ -48,6 +57,15 @@ Phil Fish
 
 Nintendo Co., Ltd.  
 2001
+
+<br>
+
+## Laptop Computer
+
+### MacBook Air [↗](https://en.wikipedia.org/wiki/MacBook_Air)
+
+Apple Inc.  
+2008
 
 <br>
 
@@ -138,6 +156,15 @@ Andor Genesis, Baozousangshi, Han Xiaofei, Yang Zijiang, GAMECORES
 
 Hsia Yu, from _Friction. indescribable_ 摩擦．無以名狀  
 1995
+
+<br>
+
+## Slogan
+
+### Greatness Awaits [↗](https://www.youtube.com/watch?v=_B8PK-eg2QY)
+
+Sony Interactive Entertainment LLC  
+2013
 
 <br>
 
