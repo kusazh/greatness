@@ -15,12 +15,12 @@ Fullkawa Honpo
 
 <br>
 
-## Book
+## Anime Series
 
-### ZOO [↗](https://ja.wikipedia.org/wiki/ZOO_(乙一))
+### CLANNAD [↗](https://ja.wikipedia.org/wiki/Alice_in_Wonderword)
 
-Otsuichi  
-2002
+Kyoto Animation  
+2007
 
 <br>
 
@@ -51,6 +51,24 @@ Nintendo Co., Ltd.
 
 <br>
 
+## Lyric
+
+### Rose-colored 玫瑰色的你 [↗](https://www.youtube.com/watch?v=CMH-VJ9cvG8)
+
+Jiao Anpu  
+2012
+
+<br>
+
+## Mobile Application
+
+### Huji Cam [↗](https://apps.apple.com/app/huji-cam/id781383622)
+
+Manhole, Inc.  
+2017
+
+<br>
+
 ## Mobile Phone
 
 ### iPhone 4 [↗](https://en.wikipedia.org/wiki/IPhone_4)
@@ -78,6 +96,15 @@ SHOWA NOTE Co., Ltd.
 
 <br>
 
+## Novel
+
+### ZOO [↗](https://ja.wikipedia.org/wiki/ZOO_(乙一))
+
+Otsuichi  
+2002
+
+<br>
+
 ## Perfume
 
 ### Grey Vetiver [↗](https://www.fragrantica.com/perfume/Tom-Ford/Grey-Vetiver-6697.html)
@@ -87,7 +114,7 @@ Harry Fremont, Tom Ford
 
 <br>
 
-## Photography
+## Photograph
 
 ### Dropping a Han Dynasty Urn [↗](https://en.wikipedia.org/wiki/Dropping_a_Han_Dynasty_Urn)
 
@@ -105,9 +132,18 @@ Andor Genesis, Baozousangshi, Han Xiaofei, Yang Zijiang, GAMECORES
 
 <br>
 
-## Song
+## Poem
 
-### Rose-colored 玫瑰色的你 [↗](https://www.youtube.com/watch?v=CMH-VJ9cvG8)
+### Embrace 擁抱 [↗](https://www.gcores.com/users/13146/content?tab=radios)
 
-Deserts Chang  
-2012
+Hsia Yu, from _Friction. indescribable_ 摩擦．無以名狀  
+1995
+
+<br>
+
+## Typeface
+
+### Gill Sans [↗](https://en.wikipedia.org/wiki/Gill_Sans)
+
+Eric Gill, Monotype  
+1928
