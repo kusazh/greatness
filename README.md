@@ -15,12 +15,66 @@ Fullkawa Honpo
 
 <br>
 
-## Anime Series
+## Album Cover
+
+### The Dark Side of the Moon [↗](https://en.wikipedia.org/wiki/The_Dark_Side_of_the_Moon)
+
+Hipgnosis, George Hardie  
+1973
+
+<br>
+
+## Architecture
+
+### Centre Georges-Pompidou [↗](https://en.wikipedia.org/wiki/Centre_Pompidou)
+
+Renzo Piano, Richard Rogers, Gianfranco Franchini  
+1973–1977
+
+<br>
+
+## Animated Series
 
 ### CLANNAD [↗](https://en.wikipedia.org/wiki/Clannad_(video_game)#Anime_series)
 
-Kyoto Animation  
-2007
+Kyoto Animation, base on Key's visual novel _CLANNAD_  
+2007–2009
+
+<br>
+
+## Backpack
+
+### Kånken [↗](https://en.wikipedia.org/wiki/Fjällräven#Fjällräven_Kånken)
+
+Fjällräven  
+1977
+
+<br>
+
+## Beverage
+
+### Suntory Oolong tea サントリー烏龍茶 [↗](https://www.suntory.com/brands/suntoryoolongtea/)
+
+Suntory  
+1981
+
+<br>
+
+## Brick
+
+### Brick [↗](https://www.supremecommunity.com/season/itemdetails/962/brick/)
+
+Supreme  
+2016
+
+<br>
+
+## CD Player
+
+### Wall Mounted CD Player [↗](https://commons.wikimedia.org/wiki/File:Muji_NYC_inside_CD_players.jpg)
+
+Naoto Fukasawa, MUJI  
+2000
 
 <br>
 
@@ -39,15 +93,6 @@ Edward Yang
 
 Herb Peterson, McDonald's  
 1972
-
-<br>
-
-## Game
-
-### FEZ [↗](https://en.wikipedia.org/wiki/Fez_(video_game))
-
-Phil Fish  
-2012
 
 <br>
 
@@ -110,7 +155,7 @@ ATOLS
 ### Japonica Workbook ジャポニカ学習帳 [↗](https://ja.wikipedia.org/wiki/ショウワノート#ジャポニカ学習帳)
 
 SHOWA NOTE Co., Ltd.  
-1970
+1970–
 
 <br>
 
@@ -146,7 +191,7 @@ Ai Weiwei
 ### KUSO GAME SUCKER [↗](https://www.gcores.com/users/13146/content?tab=radios)
 
 Andor Genesis, Baozousangshi, Han Xiaofei, Yang Zijiang, GAMECORES  
-2015
+2015–2017
 
 <br>
 
@@ -168,9 +213,36 @@ Sony Interactive Entertainment LLC
 
 <br>
 
+## Sneaker
+
+### NikeCraft: General Purpose Shoe [↗](https://store.tomsachs.com/products/nikecraft-general-purpose-shoe)
+
+Tom Sachs, Nike  
+2020
+
+<br>
+
+## Soundtrack
+
+### Millennium Mambo (Original Motion Picture Soundtrack) 千禧曼波 電影原聲帶 [↗](https://www.discogs.com/release/10924870-Lim-Giong-千禧曼波-電影原聲帶-Millennium-Mambo-Original-Motion-Picture-Soundtrack)
+
+Lim Giong  
+2001
+
+<br>
+
 ## Typeface
 
 ### Gill Sans [↗](https://en.wikipedia.org/wiki/Gill_Sans)
 
 Eric Gill, Monotype  
 1928
+
+<br>
+
+## Video Game
+
+### FEZ [↗](https://en.wikipedia.org/wiki/Fez_(video_game))
+
+Phil Fish  
+2012
