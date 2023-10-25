@@ -26,7 +26,7 @@ Hipgnosis, George Hardie
 
 ## Architecture
 
-### Centre Georges-Pompidou [↗](https://en.wikipedia.org/wiki/Centre_Pompidou)
+### Centre Pompidou [↗](https://en.wikipedia.org/wiki/Centre_Pompidou)
 
 Renzo Piano, Richard Rogers, Gianfranco Franchini  
 1973–1977
