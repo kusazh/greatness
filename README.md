@@ -2,16 +2,16 @@
 
 > Greatness awaits. — Sony
 
-This repo lists my favorite works from various fields.
+This repo lists my favorite works in various fields.
 
 <br>
 
 ## Album
 
-### Games We Play 神的遊戲 [↗](https://zh.wikipedia.org/wiki/神的遊戲)
+### Alice in wonderword [↗](https://ja.wikipedia.org/wiki/Alice_in_Wonderword)
 
-Deserts Chang  
-2012
+Fullkawa Honpo  
+2011
 
 <br>
 
@@ -67,3 +67,29 @@ Edward Yang
 ATOLS  
 2015
 
+<br>
+
+## Notebook
+
+### Japonica Workbook ジャポニカ学習帳 [↗](https://ja.wikipedia.org/wiki/ショウワノート#ジャポニカ学習帳)
+
+SHOWA NOTE Co., Ltd.  
+1970
+
+<br>
+
+## Podcast
+
+### KUSO GAME SUCKER [↗](https://www.gcores.com/users/13146/content?tab=radios)
+
+Andor Genesis, Baozousangshi, Han Xiaofei, Yang Zijiang, GAMECORES  
+2015
+
+<br>
+
+## Song
+
+### Rose-colored 玫瑰色的你 [↗](https://www.youtube.com/watch?v=CMH-VJ9cvG8)
+
+Deserts Chang  
+2012
