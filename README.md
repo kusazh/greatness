@@ -4,17 +4,23 @@
 
 This repo lists my favorite works from various fields.
 
+<br>
+
 ## Movie
 
 ### _A Brighter Summer Day_ (牯嶺街少年殺人事件) [↗](https://en.wikipedia.org/wiki/A_Brighter_Summer_Day)
 
 by Edward Yang, 1991
 
+<br>
+
 ## Book
 
 ### _ZOO_ [↗](https://ja.wikipedia.org/wiki/ZOO_(乙一))
 
 by Otsuichi, 2002
+
+<br>
 
 ## Album
 
