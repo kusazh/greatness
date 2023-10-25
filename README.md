@@ -17,7 +17,7 @@ Fullkawa Honpo
 
 ## Anime Series
 
-### CLANNAD [↗](https://ja.wikipedia.org/wiki/Alice_in_Wonderword)
+### CLANNAD [↗](https://en.wikipedia.org/wiki/Clannad_(video_game)#Anime_series)
 
 Kyoto Animation  
 2007
