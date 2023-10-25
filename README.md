@@ -24,21 +24,21 @@ Hipgnosis, George Hardie
 
 <br>
 
-## Architecture
-
-### Centre Pompidou [↗](https://en.wikipedia.org/wiki/Centre_Pompidou)
-
-Renzo Piano, Richard Rogers, Gianfranco Franchini  
-1973–1977
-
-<br>
-
 ## Animated Series
 
 ### CLANNAD [↗](https://en.wikipedia.org/wiki/Clannad_(video_game)#Anime_series)
 
 Kyoto Animation, base on Key's visual novel _CLANNAD_  
 2007–2009
+
+<br>
+
+## Architecture
+
+### Centre Pompidou [↗](https://en.wikipedia.org/wiki/Centre_Pompidou)
+
+Renzo Piano, Richard Rogers, Gianfranco Franchini  
+1973–1977
 
 <br>
 
