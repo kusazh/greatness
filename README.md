@@ -8,7 +8,7 @@ This repo lists my favorite works in various fields.
 
 ## Album
 
-### Alice in wonderword [↗](https://ja.wikipedia.org/wiki/Alice_in_Wonderword)
+### Alice in Wonderword [↗](https://ja.wikipedia.org/wiki/Alice_in_Wonderword)
 
 Fullkawa Honpo  
 2011
@@ -24,6 +24,15 @@ Otsuichi
 
 <br>
 
+## Film
+
+### A Brighter Summer Day 牯嶺街少年殺人事件 [↗](https://en.wikipedia.org/wiki/A_Brighter_Summer_Day)
+
+Edward Yang  
+1991
+
+<br>
+
 ## Game
 
 ### FEZ [↗](https://en.wikipedia.org/wiki/Fez_(video_game))
@@ -35,7 +44,7 @@ Phil Fish
 
 ## Game Console
 
-### Game Boy Advance [↗](https://en.wikipedia.org/wiki/IPhone_4)
+### Game Boy Advance [↗](https://en.wikipedia.org/wiki/Game_Boy_Advance)
 
 Nintendo Co., Ltd.  
 2001
@@ -48,15 +57,6 @@ Nintendo Co., Ltd.
 
 Apple Inc.  
 2013
-
-<br>
-
-## Movie
-
-### A Brighter Summer Day 牯嶺街少年殺人事件 [↗](https://en.wikipedia.org/wiki/A_Brighter_Summer_Day)
-
-Edward Yang  
-1991
 
 <br>
 
@@ -75,6 +75,24 @@ ATOLS
 
 SHOWA NOTE Co., Ltd.  
 1970
+
+<br>
+
+## Perfume
+
+### Grey Vetiver [↗](https://www.fragrantica.com/perfume/Tom-Ford/Grey-Vetiver-6697.html)
+
+Harry Fremont, Tom Ford  
+2009
+
+<br>
+
+## Photography
+
+### Dropping a Han Dynasty Urn [↗](https://en.wikipedia.org/wiki/Dropping_a_Han_Dynasty_Urn)
+
+Ai Weiwei  
+1995
 
 <br>
 
