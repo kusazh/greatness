@@ -244,5 +244,5 @@ Eric Gill, Monotype
 
 ### FEZ [↗](https://en.wikipedia.org/wiki/Fez_(video_game))
 
-Polytron  
+Phil Fish, Renaud Bédard, Polytron  
 2012
