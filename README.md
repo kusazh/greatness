@@ -100,7 +100,7 @@ Herb Peterson, McDonald's
 
 ### Game Boy Advance [↗](https://en.wikipedia.org/wiki/Game_Boy_Advance)
 
-Nintendo Co., Ltd.  
+Nintendo  
 2001
 
 <br>
@@ -109,7 +109,7 @@ Nintendo Co., Ltd.
 
 ### MacBook Air [↗](https://en.wikipedia.org/wiki/MacBook_Air)
 
-Apple Inc.  
+Apple  
 2008
 
 <br>
@@ -127,7 +127,7 @@ Jiao Anpu
 
 ### Huji Cam [↗](https://apps.apple.com/app/huji-cam/id781383622)
 
-Manhole, Inc.  
+Manhole  
 2017
 
 <br>
@@ -136,7 +136,7 @@ Manhole, Inc.
 
 ### iPhone 4 [↗](https://en.wikipedia.org/wiki/IPhone_4)
 
-Apple Inc.  
+Apple  
 2013
 
 <br>
@@ -154,7 +154,7 @@ ATOLS
 
 ### Japonica Workbook ジャポニカ学習帳 [↗](https://ja.wikipedia.org/wiki/ショウワノート#ジャポニカ学習帳)
 
-SHOWA NOTE Co., Ltd.  
+SHOWA NOTE  
 1970–
 
 <br>
@@ -208,7 +208,7 @@ Hsia Yu, from _Friction. indescribable_ 摩擦．無以名狀
 
 ### Greatness Awaits [↗](https://www.youtube.com/watch?v=_B8PK-eg2QY)
 
-Sony Interactive Entertainment LLC  
+Sony Interactive Entertainment  
 2013
 
 <br>
@@ -244,5 +244,5 @@ Eric Gill, Monotype
 
 ### FEZ [↗](https://en.wikipedia.org/wiki/Fez_(video_game))
 
-Phil Fish  
+Polytron  
 2012
