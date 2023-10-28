@@ -78,12 +78,30 @@ Naoto Fukasawa, MUJI
 
 <br>
 
+## Digital Camera
+
+### Pocket Camera [↗](https://en.wikipedia.org/wiki/Game_Boy_Camera)
+
+Nintendo  
+1998
+
+<br>
+
 ## Film
 
 ### A Brighter Summer Day 牯嶺街少年殺人事件 [↗](https://en.wikipedia.org/wiki/A_Brighter_Summer_Day)
 
 Edward Yang  
 1991
+
+<br>
+
+## Film Camera
+
+### LEICA mini 3 [↗](https://wiki.l-camera-forum.com/leica-wiki.de/index.php/Kategorie:Leica_Kompaktkamera#Leica_mini_III_(1996–1997))
+
+Leica Camera  
+1996
 
 <br>
 
@@ -114,6 +132,15 @@ Apple
 
 <br>
 
+## Logo
+
+### Kusa
+
+Zhang Xingtian  
+2020
+
+<br>
+
 ## Lyric
 
 ### Rose-colored 玫瑰色的你 [↗](https://www.youtube.com/watch?v=CMH-VJ9cvG8)
@@ -138,6 +165,18 @@ Manhole
 
 Apple  
 2013
+
+<br>
+
+## Musical Instrument
+
+### Little Sound Dj on Game Boy [↗](https://littlesounddj.com/lsd/)
+
+Nintendo  
+1989
+
+Johan Kotlinski  
+2001
 
 <br>
 
@@ -222,12 +261,30 @@ Tom Sachs, Nike
 
 <br>
 
+## Software
+
+### RPG Maker 2000 RPG ツクール 2000 [↗](https://en.wikipedia.org/wiki/RPG_Maker_2000)
+
+ASCII Corporation  
+2000
+
+<br>
+
 ## Soundtrack
 
 ### Millennium Mambo (Original Motion Picture Soundtrack) 千禧曼波 電影原聲帶 [↗](https://www.discogs.com/release/10924870-Lim-Giong-千禧曼波-電影原聲帶-Millennium-Mambo-Original-Motion-Picture-Soundtrack)
 
 Lim Giong  
 2001
+
+<br>
+
+## Translated Work
+
+### Alice's Adventures in Wonderland 阿麗思漫遊奇境記 [↗](https://en.wikipedia.org/wiki/Translations_of_Alice%27s_Adventures_in_Wonderland)
+
+Yuen Ren Chao, author Lewis Carroll  
+1922
 
 <br>
 
