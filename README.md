@@ -145,7 +145,7 @@ Zhang Xingtian
 
 ### Rose-colored 玫瑰色的你 [↗](https://www.youtube.com/watch?v=CMH-VJ9cvG8)
 
-Jiao Anpu  
+Chiao An-p'u  
 2012
 
 <br>
