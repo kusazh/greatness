@@ -150,6 +150,15 @@ Chiao An-p'u
 
 <br>
 
+## Manzai
+
+### Manzai on Legendary Day 伝説の一日 [↗](https://110th.yoshimoto.co.jp)
+
+DOWNTOWN  
+2022
+
+<br>
+
 ## Mobile Application
 
 ### Huji Cam [↗](https://apps.apple.com/app/huji-cam/id781383622)
@@ -243,6 +252,15 @@ Hsia Yu, from _Friction. indescribable_ 摩擦．無以名狀
 
 <br>
 
+## Public Lecture
+
+### The Secret of Psalm 46 [↗](https://www.gdcvault.com/play/1022597/The-Secret-of-Psalm)
+
+Brian Moriarty  
+2002
+
+<br>
+
 ## Slogan
 
 ### Greatness Awaits [↗](https://www.youtube.com/watch?v=_B8PK-eg2QY)
@@ -294,6 +312,15 @@ Yuen Ren Chao, author Lewis Carroll
 
 Eric Gill, Monotype  
 1928
+
+<br>
+
+## Variety Show
+
+### Kangsi Coming 康熙來了 [↗](https://en.wikipedia.org/wiki/Kangsi_Coming)
+
+Dee Hsu, Kevin Tsai, Chen Han-dian, Chungta Production, Gin Star Entertainment  
+2004–2016
 
 <br>
 
