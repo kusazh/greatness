@@ -150,6 +150,15 @@ Chiao An-p'u
 
 <br>
 
+## Manga
+
+### POP TEAM EPIC [↗](https://en.wikipedia.org/wiki/Pop_Team_Epic)
+
+Bkub Okawa  
+2014–
+
+<br>
+
 ## Manzai
 
 ### Manzai on Legendary Day 伝説の一日 [↗](https://110th.yoshimoto.co.jp)
