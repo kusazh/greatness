@@ -28,7 +28,7 @@ Hipgnosis, George Hardie
 
 ### CLANNAD [↗](https://en.wikipedia.org/wiki/Clannad_(video_game)#Anime_series)
 
-Kyoto Animation, base on Key's visual novel _CLANNAD_  
+Kyoto Animation, base on Key’s visual novel _CLANNAD_  
 2007–2009
 
 <br>
@@ -109,7 +109,7 @@ Leica Camera
 
 ### Sausage McMuffin with Egg [↗](https://www.mcdonalds.com/us/en-us/product/sausage-mcmuffin-with-egg.html)
 
-Herb Peterson, McDonald's  
+Herb Peterson, McDonald’s  
 1972
 
 <br>
@@ -120,6 +120,20 @@ Herb Peterson, McDonald's
 
 Nintendo  
 2001
+
+<br>
+
+## Jeans
+
+### Warehouse 1003XX
+
+Warehouse  
+1995(?)–
+
+> [!NOTE]  
+> The original release date of this model cannot be verified.
+> 
+> Warehouse was established in 1995, and this model has been present since the early stages of the company’s inception, continuing with various editions up to the present day.
 
 <br>
 
@@ -145,7 +159,7 @@ Zhang Xingtian
 
 ### Rose-colored 玫瑰色的你 [↗](https://www.youtube.com/watch?v=CMH-VJ9cvG8)
 
-Chiao An-p'u  
+Chiao An-p’u  
 2012
 
 <br>
@@ -308,7 +322,7 @@ Lim Giong
 
 ## Translated Work
 
-### Alice's Adventures in Wonderland 阿麗思漫遊奇境記 [↗](https://en.wikipedia.org/wiki/Translations_of_Alice%27s_Adventures_in_Wonderland)
+### Alice’s Adventures in Wonderland 阿麗思漫遊奇境記 [↗](https://en.wikipedia.org/wiki/Translations_of_Alice%27s_Adventures_in_Wonderland)
 
 Yuen Ren Chao, author Lewis Carroll  
 1922
