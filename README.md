@@ -125,7 +125,7 @@ Nintendo
 
 ## Jeans
 
-### Warehouse 1003XX
+### Lot 1003XX
 
 Warehouse  
 1995(?)–
@@ -317,6 +317,15 @@ ASCII Corporation
 
 Lim Giong  
 2001
+
+<br>
+
+## Trailer
+
+### Death Stranding Reveal Trailer [↗](https://www.youtube.com/watch?v=UcaMw4aCz4c)
+
+Hideo Kojima, KOJIMA PRODUCTIONS  
+2016
 
 <br>
 
