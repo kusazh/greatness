@@ -270,7 +270,7 @@ Andor Genesis, Baozousangshi, Han Xiaofei, Yang Zijiang, GAMECORES
 
 ### Passivity 被動 [↗](https://www.hsiayu.org/salsa（1999）/)
 
-Hsia Yu, from _Salsa_
+Hsia Yu, from _Salsa_  
 1999
 
 <br>
