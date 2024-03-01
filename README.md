@@ -62,7 +62,7 @@ Suntory
 
 ## Brick
 
-### Brick [↗](https://web.archive.org/web/20170328174911/http://www.supremenewyork.com/previews/fallwinter2016/accessories/brick)
+### Brick [↗](https://web.archive.org/web/20160902021243/http://www.supremenewyork.com/previews/fallwinter2016/accessories/brick)
 
 Supreme  
 2016
