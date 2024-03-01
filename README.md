@@ -125,7 +125,7 @@ Nintendo
 
 ## Jeans
 
-### Lot 1003XX
+### Lot 1003XX [↗](https://ware-house.jp/usedsample/tag/1003xx/)
 
 Warehouse  
 1995(?)–
