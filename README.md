@@ -268,10 +268,10 @@ Andor Genesis, Baozousangshi, Han Xiaofei, Yang Zijiang, GAMECORES
 
 ## Poem
 
-### Embrace 擁抱 [↗](http://faculty.ndhu.edu.tw/~e-poem/poemroad/weeklypoem/2006/03/01/夏宇%E3%80%88擁抱〉■評介者%E3%80%80鴻鴻/)
+### Passivity 被動 [↗](https://www.hsiayu.org/salsa（1999）/)
 
-Hsia Yu, from _Friction. indescribable_ 摩擦．無以名狀  
-1995
+Hsia Yu, from _Salsa_
+1999
 
 <br>
 
