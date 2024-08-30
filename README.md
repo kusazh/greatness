@@ -155,7 +155,7 @@ Zhang Xingtian
 
 <br>
 
-## Lyric
+## Lyrics
 
 ### Rose-colored 玫瑰色的你 [↗](https://www.youtube.com/watch?v=CMH-VJ9cvG8)
 
@@ -362,3 +362,12 @@ Dee Hsu, Kevin Tsai, Chen Han-dian, Chungta Production, Gin Star Entertainment
 
 Phil Fish, Renaud Bédard, Polytron  
 2012
+
+<br>
+
+## Watch
+
+### G-Shock DW-5000C [↗](https://en.wikipedia.org/wiki/G-Shock#History)
+
+Kikuo Ibe, Casio  
+1983
