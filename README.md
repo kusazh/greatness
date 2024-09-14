@@ -38,7 +38,7 @@ Kyoto Animation, base on Key’s visual novel _CLANNAD_
 ### Centre Pompidou [↗](https://en.wikipedia.org/wiki/Centre_Pompidou)
 
 Renzo Piano, Richard Rogers, Gianfranco Franchini  
-1973–1977
+1977
 
 <br>
 
