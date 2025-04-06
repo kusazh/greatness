@@ -125,7 +125,7 @@ Nintendo
 
 ## Jeans
 
-### Lot 1003XX [↗](https://ware-house.jp/usedsample/tag/1003xx/)
+### Lot 1000XX [↗](https://ware-house.jp/newitem/ltng2201/#:~:text=Lot%201000XX,-デッドストック)
 
 Warehouse  
 1995(?)–
