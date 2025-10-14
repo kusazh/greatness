@@ -125,15 +125,13 @@ Nintendo
 
 ## Jeans
 
-### Lot 1000XX [↗](https://ware-house.jp/newitem/ltng2201/#:~:text=Lot%201000XX,-デッドストック)
+### Lot 1000XX [↗](https://ware-house.jp/newitem/ltng2201/#:~:text=Dead%20Stock%20Blue-,Lot%201000XX,-デッドストックという)
 
 Warehouse  
-1995(?)–
+1995(?)
 
 > [!NOTE]  
 > The original release date of this model cannot be verified.
-> 
-> Warehouse was established in 1995, and this model has been present since the early stages of the company’s inception, continuing with various editions up to the present day.
 
 <br>
 
@@ -226,7 +224,7 @@ ATOLS
 ### Japonica Workbook ジャポニカ学習帳 [↗](https://ja.wikipedia.org/wiki/ショウワノート#ジャポニカ学習帳)
 
 SHOWA NOTE  
-1970–
+1970
 
 <br>
 
@@ -317,6 +315,18 @@ ASCII Corporation
 
 Lim Giong  
 2001
+
+<br>
+
+## T-shirt
+
+### Lot 4601 [↗](https://ware-house.jp/newitem/ltng2308/)
+
+Warehouse  
+2010(?)
+
+> [!NOTE]  
+> The original release date of this model cannot be verified.
 
 <br>
 
