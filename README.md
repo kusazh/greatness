@@ -47,7 +47,7 @@ Renzo Piano, Richard Rogers, Gianfranco Franchini
 ### Kånken [↗](https://en.wikipedia.org/wiki/Fjällräven#Fjällräven_Kånken)
 
 Fjällräven  
-1977
+1978
 
 <br>
 
@@ -194,7 +194,7 @@ Manhole
 ### iPhone 4 [↗](https://en.wikipedia.org/wiki/IPhone_4)
 
 Apple  
-2013
+2010
 
 <br>
 
