@@ -28,7 +28,7 @@ Hipgnosis, George Hardie
 
 ### CLANNAD [↗](https://en.wikipedia.org/wiki/Clannad_(video_game)#Anime_series)
 
-Kyoto Animation, base on Key’s visual novel _CLANNAD_  
+Kyoto Animation, based on Key’s visual novel _CLANNAD_  
 2007–2009
 
 <br>
@@ -127,8 +127,8 @@ Nintendo
 
 ### Lot 1000XX [↗](https://ware-house.jp/newitem/ltng2201/#:~:text=Dead%20Stock%20Blue-,Lot%201000XX,-デッドストックという)
 
-Warehouse  
-1995(?)
+WAREHOUSE & CO.  
+c. 1995
 
 > [!NOTE]  
 > The original release date of this model cannot be verified.
@@ -322,8 +322,8 @@ Lim Giong
 
 ### Lot 4601 [↗](https://ware-house.jp/newitem/ltng2308/)
 
-Warehouse  
-2010(?)
+WAREHOUSE & CO.  
+c. 2010
 
 > [!NOTE]  
 > The original release date of this model cannot be verified.
