@@ -125,7 +125,7 @@ Nintendo
 
 ## Jeans
 
-### Lot 1000XX [↗](https://ware-house.jp/newitem/ltng2201/#:~:text=Dead%20Stock%20Blue-,Lot%201000XX,-デッドストックという)
+### Lot 1000XX
 
 WAREHOUSE & CO.  
 c. 1995
@@ -320,7 +320,7 @@ Lim Giong
 
 ## T-shirt
 
-### Lot 4601 [↗](https://ware-house.jp/newitem/ltng2308/)
+### Lot 4601
 
 WAREHOUSE & CO.  
 c. 2010
