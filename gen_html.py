@@ -96,12 +96,9 @@ def render_page(entries: list[dict[str, str]]) -> str:
 
     body {{
       font-family: "Kusa", "Gill Sans", "Gill Sans MT", sans-serif;
-    }}
-
-    main {{
       width: 85vw;
       margin: 0 auto;
-      padding: 10vh 0 100vh;
+      padding: 50vh 0 0;
       text-align: center;
     }}
 
@@ -135,6 +132,18 @@ def render_page(entries: list[dict[str, str]]) -> str:
       font-style: italic;
     }}
 
+    footer {{
+      display: grid;
+      height: 100vh;
+      place-items: center;
+    }}
+
+    footer img {{
+      width: 4rem;
+      height: auto;
+      filter: invert(1);
+    }}
+
     @font-face {{
       font-family: "Kusa";
       font-weight: 400 700;
@@ -152,13 +161,13 @@ def render_page(entries: list[dict[str, str]]) -> str:
   </style>
 </head>
 <body>
-  <main>
 {items}
-  </main>
+  <footer>
+    <a href=".."><img src="../images/logo.svg" alt="Kusa"></a>
+  </footer>
   <script>
     const AUTO_SCROLL_SPEED = 32;
     const IDLE_DELAY = 1800;
-    const END_DELAY = 1800;
     const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
     const scrollKeys = new Set([
       "ArrowDown", "ArrowUp", "PageDown", "PageUp", "Home", "End", " ",
@@ -167,13 +176,11 @@ def render_page(entries: list[dict[str, str]]) -> str:
     let resumeAt = 0;
     let previousTime = performance.now();
     let scrollPosition = window.scrollY;
-    let endReachedAt = 0;
     let pointerIsDown = false;
 
     function pauseAutoScroll() {{
       resumeAt = performance.now() + IDLE_DELAY;
       scrollPosition = window.scrollY;
-      endReachedAt = 0;
     }}
 
     window.addEventListener("wheel", pauseAutoScroll, {{ passive: true }});
@@ -201,14 +208,9 @@ def render_page(entries: list[dict[str, str]]) -> str:
       if (!reducedMotion.matches && !pointerIsDown && time >= resumeAt) {{
         const maximum = document.documentElement.scrollHeight - window.innerHeight;
         if (window.scrollY >= maximum - 1) {{
-          if (!endReachedAt) endReachedAt = time;
-          if (time - endReachedAt >= END_DELAY) {{
-            window.scrollTo(0, 0);
-            scrollPosition = 0;
-            endReachedAt = 0;
-          }}
+          window.scrollTo(0, maximum);
+          return;
         }} else {{
-          endReachedAt = 0;
           scrollPosition += (AUTO_SCROLL_SPEED * elapsed) / 1000;
           window.scrollTo(0, scrollPosition);
         }}
