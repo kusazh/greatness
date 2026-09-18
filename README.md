@@ -237,6 +237,15 @@ Otsuichi
 
 <br>
 
+## Pants
+
+### B01 Firm Duck Double-Front Dungaree
+
+Carhartt  
+1939
+
+<br>
+
 ## Perfume
 
 ### Grey Vetiver [↗](https://www.fragrantica.com/perfume/Tom-Ford/Grey-Vetiver-6697.html)
@@ -273,6 +282,15 @@ Hsia Yu, from _Salsa_
 
 <br>
 
+## Pokémon
+
+### Smeargle ドーブル [↗](https://www.pokemon.com/us/pokedex/smeargle)
+
+GAME FREAK  
+1999
+
+<br>
+
 ## Public Lecture
 
 ### The Secret of Psalm 46 [↗](https://www.gdcvault.com/play/1022597/The-Secret-of-Psalm)
@@ -297,6 +315,18 @@ Sony Interactive Entertainment
 
 Tom Sachs, Nike  
 2020
+
+<br>
+
+## Sock
+
+### T4018 Micro Crew Lightweight Tactical Socks No Cushion
+
+Darn Tough  
+c. 2014
+
+> [!NOTE]  
+> The original release date of this model cannot be verified.
 
 <br>
 
